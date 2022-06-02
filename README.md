@@ -1,6 +1,9 @@
 # Eye-blink-detection-game
 Computer Vision project - Eye blink detection framed into game of longest staring with opencv and python
 ## Includes :
-1. Face Detection with Haar Cascades
+1. Face Detection with Haar Cascades 
 2. Eye Detection with Haar Cascades
+
+### Need to be added
+1. Face Recognization with Haar Cascades
 
